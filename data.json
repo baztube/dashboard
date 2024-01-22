@@ -1,38 +1,16 @@
-{
-    "squadName": "Super hero squad",
-    "homeTown": "Metro City",
-    "formed": 2016,
-    "secretBase": "Super tower",
-    "active": true,
-    "members": [
-      {
-        "name": "Molecule Man",
-        "age": 29,
-        "secretIdentity": "Dan Jukes",
-        "powers": ["Radiation resistance", "Turning tiny", "Radiation blast"]
-      },
-      {
-        "name": "Madame Uppercut",
-        "age": 39,
-        "secretIdentity": "Jane Wilson",
-        "powers": [
-          "Million tonne punch",
-          "Damage resistance",
-          "Superhuman reflexes"
-        ]
-      },
-      {
-        "name": "Eternal Flame",
-        "age": 1000000,
-        "secretIdentity": "Unknown",
-        "powers": [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
-          "Interdimensional travel"
-        ]
-      }
-    ]
-  }
-  
+[
+    {
+      "title": "Opakovací test z 2. Lekce",
+      "date": 1706482800,
+      "description": "Velký opakovací test z druhé lekce (členové rodiny a protikaldy). Příprava na test na straně 23-24 v pracovním sešitě",
+      "Wordwall": "https://wordwall.net/cs/resource/67086610/n%c4%9bm%c4%8dina-2-lekce-fraus",
+      "předmět": 4
+    },
+    {
+      "title": "Test",
+      "date": 1706482800,
+      "description": "Olaaniiii",
+      "Wordwall": "https://wordwall.net/cs/resource/67086610/n%c4%9bm%c4%8dina-2-lekce-fraus",
+      "předmět": 11
+    }
+  ]
